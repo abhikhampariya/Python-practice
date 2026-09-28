@@ -1,0 +1,2 @@
+# Python-practice
+A beginner‑friendly Python practice repository containing simple scripts, exercises, and mini‑projects to build a strong foundation in programming. Designed to track learning progress, experiment with core concepts, and grow confidence through hands‑on practice.
